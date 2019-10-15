@@ -44,8 +44,3 @@ Link: [Google][googlelink] [googlelink]:  https://brunch.co.kr/@jamess/4 "Parse 
 
 
 
-<<<<<<< HEAD
-github test
-github test by soyeon
-=======
->>>>>>> 7a9ed52547c87e8d5c56787710aaa65380090cb2
