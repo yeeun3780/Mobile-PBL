@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255821537281",
+    "firebase_url": "https://shoppingmall-beb30.firebaseio.com",
+    "project_id": "shoppingmall-beb30",
+    "storage_bucket": "shoppingmall-beb30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255821537281:android:81aa6d5058a1b4f439a000",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255821537281-244vgobeu051kucglp8697mm7g15rb8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingmall",
+            "certificate_hash": "559d8cd7733cc8c12c664db71d7ef7d9bde72c5a"
+          }
+        },
+        {
+          "client_id": "255821537281-hr8uhg7q8bhdqbd8vishvmfllu4qi221.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuWVoutip6Q4I0ucS3eNlcV4IoIEje_ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255821537281-hr8uhg7q8bhdqbd8vishvmfllu4qi221.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
