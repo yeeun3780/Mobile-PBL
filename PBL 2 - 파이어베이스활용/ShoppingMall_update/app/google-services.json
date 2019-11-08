@@ -1,0 +1,83 @@
+{
+  "product1" : {
+    "category" : "가전",
+    "name" : "LG 밥솥",
+    "price" : 500000,
+    "product_info" : "cuckoo",
+    "product_num" : 1
+  },
+  "product2" : {
+    "category" : "전자",
+    "name" : "Apple 노트북",
+    "price" : 1500000,
+    "product_Info" : "Mac",
+    "product_num" : 2
+  },
+  "product3" : {
+    "category" : "가전",
+    "name" : "삼성 세탁기",
+    "price" : 9500000,
+    "product_Info" : "Bubble",
+    "product_num" : 3
+  },
+  "product4" : {
+    "category" : "전자",
+    "name" : "삼성 노트북",
+    "price" : 1000000,
+    "product_Info" : "Always9",
+    "product_num" : 2
+  },
+  "product5" : {
+    "category" : "가전",
+    "name" : "LG 노트북",
+    "price" : 5000000,
+    "product_Info" : "gram",
+    "product_num" : 1
+  },
+  "project_info": {
+    "project_number": "255821537281",
+    "firebase_url": "https://shoppingmall-beb30.firebaseio.com",
+    "project_id": "shoppingmall-beb30",
+    "storage_bucket": "shoppingmall-beb30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255821537281:android:81aa6d5058a1b4f439a000",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255821537281-244vgobeu051kucglp8697mm7g15rb8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingmall",
+            "certificate_hash": "559d8cd7733cc8c12c664db71d7ef7d9bde72c5a"
+          }
+        },
+        {
+          "client_id": "255821537281-hr8uhg7q8bhdqbd8vishvmfllu4qi221.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuWVoutip6Q4I0ucS3eNlcV4IoIEje_ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255821537281-hr8uhg7q8bhdqbd8vishvmfllu4qi221.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
