@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PBL2_ShoppingApp.iml" filepath="$PROJECT_DIR$/PBL2_ShoppingApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PBL2_ShoppingApp_FinalUI.iml" filepath="$PROJECT_DIR$/.idea/PBL2_ShoppingApp_FinalUI.iml" />
     </modules>
   </component>
 </project>
