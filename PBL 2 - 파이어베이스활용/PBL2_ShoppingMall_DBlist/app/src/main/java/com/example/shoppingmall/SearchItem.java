@@ -1,5 +1,6 @@
 package com.example.shoppingmall;
 
+import android.util.Log;
 import android.widget.Button;
 
 import com.google.firebase.database.DatabaseReference;
@@ -10,9 +11,12 @@ public class SearchItem {
     private DatabaseReference itemDatabase;
     Button button;
 
-    public void searchResult(String search){
-        itemDatabase=FirebaseDatabase.getInstance().getReference();
+    public Query searchResult(String search){
+        itemDatabase=FirebaseDatabase.getInstance().getReference("name");
 
-        Query myTopPostsQuery=itemDatabase.child("name").orderByChild(search);
+        Query myTopPostsQuery=itemDatabase.orderByChild("name").equalTo(search);
+
+        return myTopPostsQuery;
+
     }
 }

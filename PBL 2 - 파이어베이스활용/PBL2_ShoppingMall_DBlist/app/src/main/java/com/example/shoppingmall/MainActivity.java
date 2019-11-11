@@ -36,14 +36,16 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity { ;
     private DatabaseReference mDatabase;
-    RecyclerView mRecyclerView = null ;
+    private DatabaseReference itemDatabase;
+    RecyclerView mRecyclerView = null;
     RecyclerImageTextAdapter mAdapter = null ;
     ArrayList<SamsungItem> mPhoneList = new ArrayList<SamsungItem>();
     ArrayList<SamsungItem> mAppList = new ArrayList<SamsungItem>();
     ArrayList<SamsungItem> mAllList = new ArrayList<SamsungItem>();
+    ArrayList<SamsungItem> mSearchList = new ArrayList<SamsungItem>();
     Button searchButtton;
     EditText searchText;
-    SearchItem search;
+    //SearchItem search = new SearchItem();
 
     private  void writeProduct(String productId,int product_num, String name, String category,int price ,String product_info){
         //mDatabase.child("product").child(productId).setValue(product);
@@ -91,12 +93,12 @@ public class MainActivity extends AppCompatActivity { ;
                     Product get=postSnapshot.getValue(Product.class);
 
                     if(get.category.equals("가전"))
-                        addAppItem(getDrawable(R.mipmap.ic_launcher),
-                                get.name, String.valueOf(get.price));
-                    else
-                        addPhoneItem(getDrawable(R.mipmap.ic_launcher),
-                                get.name, String.valueOf(get.price)) ;
-                }
+                    addAppItem(getDrawable(R.mipmap.ic_launcher),
+                            get.name, String.valueOf(get.price));
+                else
+                    addPhoneItem(getDrawable(R.mipmap.ic_launcher),
+                            get.name, String.valueOf(get.price)) ;
+            }
 
 
             }
@@ -127,9 +129,24 @@ public class MainActivity extends AppCompatActivity { ;
                 }
                 //검색 키워드 입력된 경우
                 else{
-                    search.searchResult(searchItem);
+                    //search.searchResult(searchItem);
+
+
+                    itemDatabase=FirebaseDatabase.getInstance().getReference("name");
+
+                    Query myTopPostsQuery=itemDatabase.orderByChild("name").equalTo(searchItem);
+
+
+                   // mAdapter = new RecyclerImageTextAdapter(mSearchList) ;
+
+                    //mAdapter.notifyDataSetChanged() ;
+                    //mRecyclerView.setAdapter(mAdapter) ;
+
                 }
+
+
             }
+
         });
     }
 
@@ -160,6 +177,16 @@ public class MainActivity extends AppCompatActivity { ;
 
         mAdapter.notifyDataSetChanged() ;
         mRecyclerView.setAdapter(mAdapter) ;
+    }
+
+    public void addSearchItem(Drawable icon, String title, String desc) {
+        SamsungItem item = new SamsungItem();
+
+        item.setIcon(icon);
+        item.setTitle(title);
+        item.setDesc(desc);
+
+        mSearchList.add(item);
     }
 
     public void addPhoneItem(Drawable icon, String title, String desc) {
