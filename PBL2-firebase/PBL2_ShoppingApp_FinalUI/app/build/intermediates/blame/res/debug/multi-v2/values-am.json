@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/deurorina/Desktop/HSPBL/OriginMobile-PBL/PBL2-firebase/PBL2_ShoppingApp_FinalUI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+            "outputFile": "/Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
             "map": [
                 {
                     "source": "/Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/91247232cb3d83ee54fdb37e337440c3/res/values-am/values-am.xml",

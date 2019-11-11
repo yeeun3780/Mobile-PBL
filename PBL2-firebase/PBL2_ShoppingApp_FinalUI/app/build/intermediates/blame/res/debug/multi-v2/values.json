@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/deurorina/Desktop/HSPBL/OriginMobile-PBL/PBL2-firebase/PBL2_ShoppingApp_FinalUI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/deurorina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f6fc09558ada1360fd305d7adf99ced/res/values/values.xml",
@@ -23,24 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/deurorina/Desktop/HSPBL/OriginMobile-PBL/PBL2-firebase/PBL2_ShoppingApp_FinalUI/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "153,154,155",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7704,7750,7797",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "7745,7792,7843"
-                    }
-                },
-                {
-                    "source": "/Users/deurorina/Desktop/HSPBL/OriginMobile-PBL/PBL2-firebase/PBL2_ShoppingApp_FinalUI/app/src/main/res/values/styles.xml",
+                    "source": "/Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -97,6 +80,40 @@
                     }
                 },
                 {
+                    "source": "/Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "53",
+                        "endOffsets": "65"
+                    },
+                    "to": {
+                        "startLines": "384",
+                        "startColumns": "4",
+                        "startOffsets": "22985",
+                        "endColumns": "53",
+                        "endOffsets": "23034"
+                    }
+                },
+                {
+                    "source": "/Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "153,154,155",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7704,7750,7797",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "7745,7792,7843"
+                    }
+                },
+                {
                     "source": "/Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/91247232cb3d83ee54fdb37e337440c3/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
@@ -132,23 +149,6 @@
                         "endLines": "15,1858,2565,2654",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "720,122911,166848,172059"
-                    }
-                },
-                {
-                    "source": "/Users/deurorina/Desktop/HSPBL/OriginMobile-PBL/PBL2-firebase/PBL2_ShoppingApp_FinalUI/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "53",
-                        "endOffsets": "65"
-                    },
-                    "to": {
-                        "startLines": "384",
-                        "startColumns": "4",
-                        "startOffsets": "22985",
-                        "endColumns": "53",
-                        "endOffsets": "23034"
                     }
                 }
             ]
