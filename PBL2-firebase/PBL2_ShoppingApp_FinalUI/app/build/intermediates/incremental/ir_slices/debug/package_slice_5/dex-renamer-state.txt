@@ -1,0 +1,4 @@
+#Sat Nov 09 14:20:04 KST 2019
+base.0=/Users/deurorina/Desktop/HSPBL/OriginMobile-PBL/PBL2-firebase/PBL2_ShoppingApp_FinalUI/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

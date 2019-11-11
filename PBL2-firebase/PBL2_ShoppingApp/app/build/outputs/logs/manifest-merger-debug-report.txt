@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c5719b1c0fe3316e92482c3116130060/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f6fc09558ada1360fd305d7adf99ced/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/07c5d1e81e1d07093e3c2e0b97a77202/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/645bdc3a4ed5bc59980f119ba0115d41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b85a6c4b04c0ca6f302e8842a8c2a698/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7a14f57b82dca2171b2e6496c5a1f308/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c0282595e92ebd5a5fed41a2a600aa66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aee63066823a84e3b7b7005bbc8cea4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/719c68547268bd995497cd35be960fc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/129cb29eca24d3443c5b374b661160fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1dfbdd1a6762a5968912eb5ea05d8277/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1a52ab32321f04e80de9013bc94418b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e5e9554a6050e8268c339f404eda2ec5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fa11145620adc339bee99463d60c7f5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/68e8e4adf9ff00e90c7c1697dd6cc9d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d2f2025f7628ad715836b3ddb1b50e65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/91247232cb3d83ee54fdb37e337440c3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/61f6c1acb022be4e3cf9e8e0868e4fc2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dc17fd3d14c4e3f3c951e5fa6c2aac66/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/da9eb4ff92ce77e4491ccd75e81b9ee4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2069781cce1a3b02de28951d7af41751/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/14ce2075976f7119f2225ab7d6332b54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2bf7fd73324715963be18e1525f70cc2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cd7e97e32ba9858917e38ec3da3166b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/243c5fd35947a59155f5edf1a289a911/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/431f781bfa237cb75897e36a7ad04b0c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c90cbbe65dd5472f750d285762804154/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b5d190603ad02d5e610feb132a33e660/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f6fc09558ada1360fd305d7adf99ced/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f6fc09558ada1360fd305d7adf99ced/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/91247232cb3d83ee54fdb37e337440c3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/91247232cb3d83ee54fdb37e337440c3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/61f6c1acb022be4e3cf9e8e0868e4fc2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/61f6c1acb022be4e3cf9e8e0868e4fc2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/91247232cb3d83ee54fdb37e337440c3/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.pbl2_shoppingapp.MainActivity
+ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c5719b1c0fe3316e92482c3116130060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c5719b1c0fe3316e92482c3116130060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f6fc09558ada1360fd305d7adf99ced/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8f6fc09558ada1360fd305d7adf99ced/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/07c5d1e81e1d07093e3c2e0b97a77202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/07c5d1e81e1d07093e3c2e0b97a77202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/645bdc3a4ed5bc59980f119ba0115d41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/645bdc3a4ed5bc59980f119ba0115d41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b85a6c4b04c0ca6f302e8842a8c2a698/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b85a6c4b04c0ca6f302e8842a8c2a698/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7a14f57b82dca2171b2e6496c5a1f308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7a14f57b82dca2171b2e6496c5a1f308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c0282595e92ebd5a5fed41a2a600aa66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c0282595e92ebd5a5fed41a2a600aa66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aee63066823a84e3b7b7005bbc8cea4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aee63066823a84e3b7b7005bbc8cea4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/719c68547268bd995497cd35be960fc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/719c68547268bd995497cd35be960fc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/129cb29eca24d3443c5b374b661160fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/129cb29eca24d3443c5b374b661160fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1dfbdd1a6762a5968912eb5ea05d8277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1dfbdd1a6762a5968912eb5ea05d8277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1a52ab32321f04e80de9013bc94418b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1a52ab32321f04e80de9013bc94418b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e5e9554a6050e8268c339f404eda2ec5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e5e9554a6050e8268c339f404eda2ec5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fa11145620adc339bee99463d60c7f5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fa11145620adc339bee99463d60c7f5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/68e8e4adf9ff00e90c7c1697dd6cc9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/68e8e4adf9ff00e90c7c1697dd6cc9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d2f2025f7628ad715836b3ddb1b50e65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d2f2025f7628ad715836b3ddb1b50e65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/91247232cb3d83ee54fdb37e337440c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/91247232cb3d83ee54fdb37e337440c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/61f6c1acb022be4e3cf9e8e0868e4fc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/61f6c1acb022be4e3cf9e8e0868e4fc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dc17fd3d14c4e3f3c951e5fa6c2aac66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dc17fd3d14c4e3f3c951e5fa6c2aac66/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/da9eb4ff92ce77e4491ccd75e81b9ee4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/da9eb4ff92ce77e4491ccd75e81b9ee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2069781cce1a3b02de28951d7af41751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2069781cce1a3b02de28951d7af41751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/14ce2075976f7119f2225ab7d6332b54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/14ce2075976f7119f2225ab7d6332b54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2bf7fd73324715963be18e1525f70cc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2bf7fd73324715963be18e1525f70cc2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cd7e97e32ba9858917e38ec3da3166b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cd7e97e32ba9858917e38ec3da3166b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/243c5fd35947a59155f5edf1a289a911/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/243c5fd35947a59155f5edf1a289a911/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/431f781bfa237cb75897e36a7ad04b0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/431f781bfa237cb75897e36a7ad04b0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c90cbbe65dd5472f750d285762804154/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c90cbbe65dd5472f750d285762804154/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b5d190603ad02d5e610feb132a33e660/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deurorina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b5d190603ad02d5e610feb132a33e660/AndroidManifest.xml:20:5-44
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deurorina/Documents/android/Programs/PBL2_ShoppingApp/app/src/main/AndroidManifest.xml
