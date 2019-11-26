@@ -28,10 +28,16 @@
 
 * Xamarin
   * C# 언어 사용
+  * 개발환경: Xamarin.ios, Xamarin.Android ...
   * 크로스플랫폼 개발툴 무료
-  * 오픈소스 라이
 * Flutter
+  * Dart 언어 사용
+  * 개발환경: iOS, Android
+  * 통합 개발 환경 지원(Android Studio, IntelliJ ...)
 * React Native
+  * JavaScript 사용
+  * 개발환경: iOS, Android
+  * 개발 툴 필요 없음(CRNA, Expo)
 * etc.
 
 <hr>
